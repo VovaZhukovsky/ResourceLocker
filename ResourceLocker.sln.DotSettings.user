@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F67136306866f4aa5bffce66080fd4ce6b2e200_003Fbf_003Ff692710b_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ASocket_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Ffa0e98fb90e94e3685b5eaa79ee01c3788c00_003F26_003Fb18d2c79_003FSocket_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8625d987_002D5c7e_002D4c95_002Da3f3_002D28b00234418f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Validate_Set_Command_With_Three_Args_Should_Be_Valid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;CEF334A6-D81A-4895-8F16-DE33EB9E16F6/f:CommandParserTests.cs&lt;/ProjectFile&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::CEF334A6-D81A-4895-8F16-DE33EB9E16F6::net8.0::ResourceLocker.Core.Tests.ResourceLockStoreTests.Validate_Get_Returns_Lock_When_Lease_Not_Expired&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::CEF334A6-D81A-4895-8F16-DE33EB9E16F6::net8.0::ResourceLocker.Core.Tests.ResourceLockStoreTests.Validate_Get_Returns_Null_When_Lease_Expired&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::CEF334A6-D81A-4895-8F16-DE33EB9E16F6::net8.0::ResourceLocker.Core.Tests.ResourceLockStoreTests.Validate_Remove_Deletes_Existing_Lock&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
